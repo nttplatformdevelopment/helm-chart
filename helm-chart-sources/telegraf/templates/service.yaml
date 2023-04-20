@@ -51,7 +51,7 @@ spec:
   - port: {{ trimPrefix ":" $value.service_address | int64 }}
     targetPort: {{ trimPrefix ":" $value.service_address | int64 }}
     protocol: "TCP"
-    name: "cisco_telemetry_mdt"
+    name: "cisco-telemetry-mdt"
     {{- end }}
     {{- if eq $key "tcp_listener" }}
   - port: {{ trimPrefix ":" $value.service_address | int64 }}
