@@ -3,9 +3,9 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-20T14:01:21.824346+10:00"
+    created: "2023-04-20T14:19:45.897663+10:00"
     description: A Helm chart for Kubernetes
-    digest: 7e82b41439a173a8fd93913392790ef86aa46559ffff5ba8afc5d8f6ca2ed841
+    digest: 357d39eab58c87621936cbf8d30ecd0f4ef1e53838c2fff4f3a8c9dbad290ebb
     name: helm-chart-test
     type: application
     urls:
@@ -14,10 +14,10 @@ entries:
   telegraf:
   - apiVersion: v2
     appVersion: 1.26.1
-    created: "2023-04-20T14:01:21.824949+10:00"
+    created: "2023-04-20T14:19:45.898319+10:00"
     description: Telegraf is an agent written in Go for collecting, processing, aggregating,
       and writing metrics.
-    digest: f26d0b7a6eae63efb03592bb1aa894dbb0c5ddffa183cb6cbd14031b3cbf8f0c
+    digest: 954b13f94f9c89d736d14b546a41e467f3cbcb2ae70405a85b715765ff859b4b
     home: https://www.influxdata.com/time-series-platform/telegraf/
     icon: https://avatars0.githubusercontent.com/u/5713248?s=200&v=4
     keywords:
@@ -39,4 +39,4 @@ entries:
     urls:
     - https://nttplatformdevelopment.github.io/helm-chart/telegraf-1.8.27.tgz
     version: 1.8.27
-generated: "2023-04-20T14:01:21.8225+10:00"
+generated: "2023-04-20T14:19:45.897245+10:00"
