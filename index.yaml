@@ -9,6 +9,6 @@ entries:
     name: helm-chart-test
     type: application
     urls:
-    - http://github.com/nttplatformdevelopment/helm-chart/helm-chart-test-0.1.0.tgz
+    - http://nttplatformdevelopment.github.com/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2023-04-19T16:25:16.999606+10:00"
