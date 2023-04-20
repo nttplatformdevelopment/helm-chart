@@ -1,3 +1,3 @@
 
 helm package helm-chart-sources/*
-helm repo index --url http://github.com/nttplatformdevelopment/helm-chart/ .
+helm repo index --url https://nttplatformdevelopment.github.io/helm-chart/ .
